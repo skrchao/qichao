@@ -9,9 +9,6 @@ namespace CoreDemo.Modes
         public int AudienceCount { get; set; }
 
 
-        public int MovieId1 { get; set; }
-        public int AudienceCount2 { get; set; }
-        public int MovieId4 { get; set; }
-        public int AudienceCount5 { get; set; }
+       
     }
 }
