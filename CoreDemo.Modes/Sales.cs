@@ -9,6 +9,6 @@ namespace CoreDemo.Modes
         public int AudienceCount { get; set; }
 
 
-       
+        public bool flag { get; set; }
     }
 }
